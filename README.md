@@ -1,42 +1,49 @@
 # PRATIKUM 4 
 ## PENJELASAN KODE PEMROGRAMAN 
 
-### PERTAMA 
+### INISIALISASI LIST
 List data_mahasiswa digunakan untuk menyimpan semua data mahasiswa <p>
-![Gambar 1]()
+![Gambar 1](SSP4/SS1.png)
 
-### KEDUA 
+### LOOP WHILE 
 - Program memasuki loop while untuk memasukkan data secara berulang. 
-- Program meminta input data seperti : Nama, NIM, Nilai Tugas, UAS, UTS yang dikonversi menjadi float agar nilainya menjadi angka numerik. 
-![Gambar 2]()
+- Program meminta input data seperti : Nama, NIM, Nilai Tugas, UAS, UTS yang dikonversi menjadi float agar nilainya menjadi angka numerik. <p>
 
-### KETIGA 
+![Gambar 2](SSP4/SS2.png)
+
+### MENGHITUNG NILAI AKHIR  
 Nilai Akhir dihitung berdasarkan bobot : 
 - 30% dari nilai tugas 
 - 35% dari nilai UTS 
-- 35% dari nilai UAS 
-![Gambar 3]()
+- 35% dari nilai UAS <p>
 
-### KEEMPAT 
+![Gambar 3](SSP4/SS3.png)
+
+### MENYIMPAN DATA 
 - Semua data mahasiswa akan disimpan dalam dictionary. 
-- Dictionary ini kemudian ditambahkan ke dalam list data_mahasiswa 
-![Gambar 4]()
+- Dictionary ini kemudian ditambahkan ke dalam list data_mahasiswa <p>
 
-### KELIMA 
+![Gambar 4](SSP4/SS4.png)
+
+### MENAMBAHKAN DATA ATAU TIDAK 
 - Program akan menanyakan apakah kita ingin menambahkan data lagi atau tidak 
 - Jika Kita mengetik "y" maka akan perulangan akan dimulai kembali untuk menambah data mahasiswa berikutnya. 
-- Jika kita mengetik "t" maka loop while akan dihentikan dengan perintah break 
-![Gambar 5]()
+- Jika kita mengetik "t" maka loop while akan dihentikan dengan perintah break <p>
 
-### KEENAM 
+![Gambar 5](SSP4/SS5.png)
+
+### MENAMPILKAN NILAI 
 - Program akan menampilkan judul tabel dan header untuk setiap kolom 
-- Garis pembatas dibuat menggunakan print("="*60)
-![Gambar 6]()
+- Garis pembatas dibuat menggunakan print("="*60) <p>
 
-### KETUJUH 
-Prorgam menggunakan loop for untuk menamppilkan setiap data mahasiswa yang ada di data_mahasiswa 
-![Gambar 7]()
+![Gambar 6](SSP4/SS6.png)
+
+### LOOP 
+Prorgam menggunakan loop for untuk menamppilkan setiap data mahasiswa yang ada di data_mahasiswa <p>
+
+![Gambar 7](SSP4/SS7.png)
 
 ### GARIS PEMBATAS 
-Garis pembatas akhir untuk menutup tabel 
-![Gambar 8]()
+Garis pembatas akhir untuk menutup tabel <p>
+
+![Gambar 8](SSP4/SS8.png)
