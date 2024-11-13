@@ -7,7 +7,7 @@ List data_mahasiswa digunakan untuk menyimpan semua data mahasiswa. Setiap data 
 
 ### LOOP WHILE 
 - Program memasuki loop while untuk memasukkan data secara berulang. 
-- Program meminta input data seperti : Nama, NIM, Nilai Tugas, UAS, UTS yang dikonversi menjadi float agar nilainya menjadi angka numerik. <p>
+- Program meminta input data seperti : Nama, NIM, Nilai Tugas, UAS, UTS yang dikonversi menjadi float agar nilainya menjadi angka desimal. <p>
 
 ![Gambar 2](SSP4/SS2.png)
 
@@ -50,6 +50,37 @@ Garis pembatas akhir untuk menutup tabel <p>
 ![Gambar 8](SSP4/SS8.png)
 
 
-### HASIL PROGRAM 
+### HASIL PROGRAM
+Menampilkan hasil program yang berupa : 
+- Nama : 
+- NIM : 
+- Nilai Tugas : 
+- Nilai UTS : 
+- NILAI UAS : 
+
+Setelah program akan menanyakan apakah kita ingin menambah data lagi atau tidak. Jika tidak maka program akan menampilkan nilai akhir. <p>
 
 ![Gambar 9](SSP4/SS9.png)
+
+
+# FLOWCHART 
+### MULAI PROGRAM 
+- Flowchart dimulai dengan bentuk oval sebagai awal program
+- Setelah itu masuk ke proses Masukkan data Mahasiswa 
+
+![Gambar 10](SSP4/SS10.png)
+
+![Gambar 11](SSP4/SS11.png)
+
+### INPUT DAN DESICION 
+- Memasuki proses Input. Disini meminta kita untuk menginputkan NAMA, NIM, Nilai UAS, UTS, dan Tugas. 
+- Program akan memasuki Desicion, disini program akan menanyakan apakah kita menambah data lagi, jika ya maka program akan melalukan loop, jika tidak maka akan lanjut ke proses berikutnya. 
+- Program akan menghitung Nilai akhir. 30% dari nilai tugas, 35% dari nilai uts, 35% dari nilai uas. 
+
+![Gambar 12](SSP4/SS12.png)
+
+### NILAI AKHIR 
+- Program akan menampilkan nilai akhir berupa angka desimal 
+- Jika program menampikan sudah nilai akhir, maka progam akan berakhir. 
+
+![Gambar 13](SSP4/SS13.png)
